@@ -2,7 +2,7 @@
 Files from my Officer package demo in R  
 [**Find me on LinkedIn here**](https://www.linkedin.com/in/elizabethheeren/)  
 
- $~$
+ 
  
 ###The Officer_Demo folder contains these files:  
 
