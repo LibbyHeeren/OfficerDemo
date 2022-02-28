@@ -4,7 +4,7 @@ Files from my Officer package demo in R
 
  
  
-###The Officer_Demo folder contains these files:  
+### The Officer_Demo folder contains these files:  
 
 * **dataset_Facebook.csv** - the sample data set I used in my code, which can be found on kaggle [here](https://www.kaggle.com/roxannac/facebook-data)  
 * **Demo_Deck.pptx** - this is the PowerPoint deck that was created by the Officer code in my .Rmd file  
