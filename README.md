@@ -4,7 +4,7 @@ Files from my Officer package demo in R
 [**Officeverse eBook**](https://ardata-fr.github.io/officeverse/index.html)  
 [**Officer package on github by David Gohel**](https://github.com/davidgohel/officer)  
 
- 
+To get started, clone this repo and open the .Rproj (R project) file  
  
 ### The Officer_Demo folder contains these files:    
 
