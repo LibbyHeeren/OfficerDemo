@@ -1,6 +1,6 @@
 # OfficerDemo  
 Files from my Officer package demo in R   
-[**Find me on LinkedIn here**](https://www.linkedin.com/in/elizabethheeren/)   
+[**Find me on LinkedIn here**](https://www.linkedin.com/in/libbyheeren/)   
 [**Officeverse eBook**](https://ardata-fr.github.io/officeverse/index.html)  
 [**Officer package on github by David Gohel**](https://github.com/davidgohel/officer)  
 
