@@ -10,7 +10,7 @@ To get started, clone this repo and open the .Rproj (R project) file
 
 * **dataset_Facebook.csv** - the sample data set I used in my code, which can be found on kaggle [here](https://www.kaggle.com/roxannac/facebook-data)  
 * **Demo_Deck.pptx** - this is the PowerPoint deck that was created by the Officer code in my .Rmd file  
-* **Demo_Report.docx** - this is the Word document that was created by the Officer code in my .Rmd file  
+* **Demo_Report.docx** - this is the Word document that was created by the Officer code in my .Rmd file. When you open the project, feel free to inspect this document, then DELETE IT so that your project can create your own Demo_Report file!   
 * **Officer_Demo.docx** - is the Word document created by knitting my .Rmd file to Word as an example of what Rmarkdown looks like in Word with the default theme  
 * **Officer_Demo.Rmd** - this is my Rmarkdown file that contains all my notes, data manipulation, and officer code  
 * **Officer_Demo.Rproj** - this is the Rstudio project file that accompanies this directory  
